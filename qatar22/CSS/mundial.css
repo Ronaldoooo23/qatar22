@@ -1,0 +1,46 @@
+*{
+	padding:0;
+	margin:0;
+
+}
+
+
+
+h1{
+	text-align:center;
+	background: #4f1027;
+	color:white;
+	padding: 20px;
+	font-family: arial black;
+
+}
+
+nav ul{
+	background-color: #a8aaad;
+	width:106%;
+	list-style-type: none;
+	text-align: center;
+	font-family: impact;
+
+}
+nav li{
+	display:inline-flex;
+}
+nav a{
+	text-decoration: none;
+	color:white;
+	padding:10px;
+	width:150px;
+}
+h2{
+	text-align:center;
+	background: #541e32;
+	color:white;
+	padding: 20px;
+	font-family: arial black;
+}
+h3{
+	color: white;
+	font-size: 26px;
+	font-family: verdana;
+}
